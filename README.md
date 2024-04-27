@@ -5,7 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neha-hafeez&label=Profile%20views&color=0e75b6&style=flat" alt="neha-hafeez" /> </p>
 
-- 🌱 I’m currently learning **Python , JAVA ,C#**
+❇️ 𝗦𝗸𝗶𝗹𝗹𝘀 𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲:
+
+- 👉 𝗕𝗮𝗰𝗸-𝗘𝗻𝗱: **Asp.Net MVC , Asp.Net Core, WEB API , C#, SQL Database, Entity Framework, Dapper, ADO.NET,Identity Framework,Razor Pages**
+
+- 👉 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱: **HTML5,CSS3,JQuery,Javascript,Bootstrap,ReactJS**
+
+- 👉 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀: **MS SQL Server, MySQL, MS Access, Oracle**
+
+- 👉 𝗧𝗵𝗶𝗿𝗱-𝗣𝗮𝗿𝘁𝘆 𝗖𝗼𝗻𝘁𝗿𝗼𝗹𝘀: **DevExpress, Kendo Grid, Telerik UI**
+
+- 👉 𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗻𝘁𝗿𝗼𝗹𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀: **Azure DevOps, Bitbucket (Git), GitLab, TFS**
 
 - 📫 How to reach me **mirzamehran1134@gmail.com**
 
