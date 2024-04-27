@@ -15,18 +15,31 @@
 
 - 👉 𝗧𝗵𝗶𝗿𝗱-𝗣𝗮𝗿𝘁𝘆 𝗖𝗼𝗻𝘁𝗿𝗼𝗹𝘀: **DevExpress, Kendo Grid, Telerik UI**
 
+- 👉 Cloud: **Microsoft Azure, AWS, Google Cloud**
+
 - 👉 𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗻𝘁𝗿𝗼𝗹𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀: **Azure DevOps, Bitbucket (Git), GitLab, TFS**
+
+
+❇️𝗣𝗿𝗼𝗳𝗶𝗹𝗲 𝗦𝘂𝗺𝗺𝗮𝗿𝘆:
+
+⦿ Best Practices in ASP.NET & Core MVC with C# ,VB.NET and Web Forms.
+⦿ Experienced professionally in all phases of designing, coding and testing.
+⦿ Proficient in use of SCRUM, Agile and other methodologies.
+⦿ Web API’s Integrations and Development
+⦿ Good practices in Google maps and Google API’s.
+⦿ Database Development and Management (SSIS).
+⦿ Strong communication and people skills.
+⦿ Energetic team worker
+
 
 - 📫 How to reach me **mirzamehran1134@gmail.com**
 
-- ⚡ Talent **I am a part time singer**
+- ⚡ Talent **I have excellent problem-solving skills.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nehahafeez00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nehahafeez00" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/neha-hafeez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neha-hafeez" height="30" width="40" /></a>
-<a href="https://instagram.com/neha.hafeez._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neha.hafeez._" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codenomics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codenomics" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/mirza-mehran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neha-hafeez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
