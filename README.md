@@ -67,9 +67,3 @@
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="csharp" width="40" height="40"/> </a>
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="csharp" width="40" height="40"/> </a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neha-hafeez&show_icons=true&theme=highcontrast&hide_border=true&locale=en&layout=compact" alt="neha-hafeez" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neha-hafeez&show_icons=true&theme=highcontrast&hide_border=true&locale=en" alt="neha-hafeez" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neha-hafeez&theme=highcontrast&hide_border=true&locale=en" alt="neha-hafeez" /></p>
