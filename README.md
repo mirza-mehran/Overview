@@ -22,14 +22,14 @@
 
 ❇️𝗣𝗿𝗼𝗳𝗶𝗹𝗲 𝗦𝘂𝗺𝗺𝗮𝗿𝘆:
 
-⦿ Best Practices in ASP.NET & Core MVC with C# ,VB.NET and Web Forms.
-⦿ Experienced professionally in all phases of designing, coding and testing.
-⦿ Proficient in use of SCRUM, Agile and other methodologies.
-⦿ Web API’s Integrations and Development
-⦿ Good practices in Google maps and Google API’s.
-⦿ Database Development and Management (SSIS).
-⦿ Strong communication and people skills.
-⦿ Energetic team worker
+- ⦿ Best Practices in ASP.NET & Core MVC with C# ,VB.NET and Web Forms.
+- ⦿ Experienced professionally in all phases of designing, coding and testing.
+- ⦿ Proficient in use of SCRUM, Agile and other methodologies.
+- ⦿ Web API’s Integrations and Development
+- ⦿ Good practices in Google maps and Google API’s.
+- ⦿ Database Development and Management (SSIS).
+- ⦿ Strong communication and people skills.
+- ⦿ Energetic team worker
 
 
 - 📫 How to reach me **mirzamehran1134@gmail.com**
