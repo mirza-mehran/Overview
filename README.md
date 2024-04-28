@@ -32,9 +32,9 @@
 - ⦿ Energetic team worker
 
 
-❇️ 📫 How to reach me 
+❇***❇
 
-- 📧 Email **mirzamehran1134@gmail.com**
+- 📧 How to reach me **mirzamehran1134@gmail.com**
 
 - ⚡ Talent **I have excellent problem-solving skills.**
 
